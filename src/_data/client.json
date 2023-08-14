@@ -1,14 +1,11 @@
 {
-	"name": "Code Stitch Web Designs",
-	"email": "help@codestitch.app",
-	"phoneForTel": "555-779-4407",
-	"phoneFormatted": "(555) 779-4407",
+	"name": "Black Mountain Design",
+	"email": "bmd@gmail.com",
+	"phoneForTel": "0751935587",
 	"address": {
-		"lineOne": "First Address Line",
-		"lineTwo": "Second Address Line",
-		"city": "Denver",
-		"state": "CO",
-		"zip": "80206",
+		"lineOne": "4, rue Pasteur",
+		"city": "Mazamet",
+		"zip": "81200",
 		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
 	},
 	"domain": "www.codestitch.app"
